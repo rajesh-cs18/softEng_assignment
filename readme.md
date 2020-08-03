@@ -1,4 +1,4 @@
-# [SOFTWARE ENGINEERING ASSIGNMENT](./SE-Assignment.pdf "Open Assignment Paper"){:target="_blank"}
+# [SOFTWARE ENGINEERING ASSIGNMENT](./SE-Assignment.pdf "Open Assignment Paper")
 
 ## PAPER 1
 
