@@ -10,7 +10,11 @@
 |2  | Chelsea Parlett-Pelleriti | [Open](https://2020.msrconf.org/profile/chelseaparlettpelleriti)|
 |23  | Ali Rao Hamza | [Open](https://2020.msrconf.org/profile/aliraohamza)|
 
-[View Submission](./paper1/readme.md)
++ ## Important Links
+  
+  + [View Submission](./paper1/readme.md)
+
+  + [Visit Paper](https://2020.msrconf.org/details/msr-2020-mining-challenge/1/Cheating-Death-A-Statistical-Survival-Analysis-of-Publicly-Available-Python-Projects)
 
 ---
 
@@ -22,7 +26,11 @@
 |---|---|---|
 |1  | Ananga Thapaliya | [Open](https://2020.icse-conferences.org/profile/anangathapaliya)|
 
-[View Submission](./paper2/readme.md)
++ ## Important Links
+
+  + [View Submission](./paper2/readme.md)
+
+  + [Visit Paper](https://2020.icse-conferences.org/details/icse-2020-ACM-Student-Research-Competition/4/Evaluation-of-brain-activity-while-Pair-Programming)
 
 ---
 
@@ -37,4 +45,8 @@
 |3  | Or Shacham | [Open](https://conf.researchr.org/profile/icpc-2020/orshacham)|
 |4  | Omer Tavor | [Open](https://conf.researchr.org/profile/icpc-2020/omertavor)|
 
-[View Submission](./paper3/readme.md)
++ ## Important Links
+  
+  + [View Submission](./paper3/readme.md)
+
+  + [Visit Paper](https://conf.researchr.org/details/icpc-2020/icpc-2020-tool-demonstration/1/SimplyHover-Improving-Comprehension-of-else-Statements)
