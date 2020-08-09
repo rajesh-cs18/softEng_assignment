@@ -36,9 +36,7 @@ an event of interest occurs.
 
 ### **RESULTS**
 
-They aims to investigate the effects of attributes of open
-source project to its overall health using survival analysis. They find
-that while the percentage of projects that do have major releases is
+The percentage of projects that do have major releases is
 relatively low, the survival rate for such projects was significantly
 higher than the projects that did not publish noteworthy revisions.
 Also show the effect of using multiple hosting repositories as
