@@ -1,3 +1,13 @@
-# PAPER 3
+# PAPER 3 : [SimplyHover: Improving Comprehension of else Statements](./paper3/readme.md "View Submission")
+
+[![Generic badge](https://img.shields.io/badge/Conference-ICSE_2020-<#fff>.svg)](https://2020.icse-conferences.org/) [![Generic badge](https://img.shields.io/badge/Track-Tool_Demonstration-<#fff>.svg)](https://conf.researchr.org/track/icpc-2020/icpc-2020-tool-demonstration?track=ICPC%20Tool%20Demonstration) ![Generic badge](https://img.shields.io/badge/When-Wed_15,_Jul_2020_00:24-<#fff>.svg)
+
+### **AUTHORS :** [Ahmad Jbara](https://conf.researchr.org/profile/icpc-2020/ahmadjbara), [Bar Ben Michael](https://conf.researchr.org/profile/icpc-2020/barbenmichael), [Or Shacham](https://conf.researchr.org/profile/icpc-2020/orshacham) and [Omer Tavor](https://conf.researchr.org/profile/icpc-2020/omertavor)
+
+### **ONE-SENTENCE**
+
+>*"Code comprehension is a vital mental process in any maintenance activity, in particular, when working with else block of an if-else statement of a lengthy block and complex conditions, the developer often feels sluggish even aggressive to figure out exact negation of if's condition to execute the else block, for that reason a plugin SimplyHover is introduced to work with-in Eclipse IDE to make things sorted."*
+
+### **EXPLANATION**
 
 [Click to move back](../readme.md)
