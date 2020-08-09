@@ -27,6 +27,6 @@ EEG device measures the brain-behavior relations of the developer and analyze th
 
 ### **RESULTS**
 
-The preliminary results of the analysis of pair programming confirms the higher concentration level as compared to solo programming.
+As per the author's finding and analysis of pair programming confirms the higher concentration level as compared to solo programming.
 
 [Click to move back](../readme.md)
