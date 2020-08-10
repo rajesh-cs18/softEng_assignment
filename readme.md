@@ -60,3 +60,7 @@ Assistant Professor at University of Sindh.
 [Rajesh Suthar](https://github.com/sutharRajesh 'sutharRajesh')\
 Roll number **2K18/CSM/84**
 Student at University of Sindh.
+
+## VIEW ASSIGNMENT PAPER
+
+[SE-Assignment.pdf](./SE-Assignment.pdf)
